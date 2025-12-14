@@ -29,6 +29,4 @@ Thematic maps, stacked area charts, donut charts, tables
 Dataset sourced from data.gov.in
 
 
-Comparative analysis across districts
 
-Clean and consistent dashboard design aligned with public-sector reporting standards
